@@ -1,8 +1,11 @@
 ![logo](https://github.com/NamrataSalve/NamrataSalve/blob/main/GithubBanner.jpg)
 
-<h1 align="center">Hi 👋, I'm Namrata Salve</h1>
-<h3 align="center">Transforming ideas into reliable software systems.</h3>
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=00C0FF&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Namrata+Salve" alt="Typing SVG" />
+</h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=FF69B4&center=true&vCenter=true&width=600&lines=Transforming+ideas+into+reliable+software+systems." alt="Typing SVG" />
+</h3>
 <img align="right" alt="coding gif" width="400px" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 <p align="left">
